@@ -1,0 +1,18 @@
+.colors-one {
+    background-color: rgb(0, 0, 0);
+    color: white
+}
+
+.colors-two {
+    background-color: rgb(255, 251, 0);
+}
+
+.colors-one.font-shared {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.colors-two.font-shared {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
